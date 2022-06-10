@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Baijanath Tharu currently working as a Software Developer at Qubits Nepal.
+I am Baijanath Tharu currently working as a Software Developer at Munal Information Technology, Nepal.
 
 #### Summary
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baijanathTharu&theme=github_dark)
